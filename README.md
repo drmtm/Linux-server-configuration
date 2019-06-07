@@ -257,8 +257,8 @@ Other Resources:
 - https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 - Official Ubuntu Documentation, [Automatic Updates](https://help.ubuntu.com/lts/serverguide/automatic-updates.html).
 - Ubuntu Wiki, [AutomaticSecurityUpdates](https://help.ubuntu.com/community/AutomaticSecurityUpdates).
--[Askubuntu.com](https://askubuntu.com/)
-[Stackoverflow.com](https://stackoverflow.com/)
+- [Askubuntu.com](https://askubuntu.com/)
+- [Stackoverflow.com](https://stackoverflow.com/)
 
 
 
